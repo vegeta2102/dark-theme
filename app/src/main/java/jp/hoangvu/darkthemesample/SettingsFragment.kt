@@ -1,4 +1,4 @@
-package jp.hoangvu.darkmodesample
+package jp.hoangvu.darkthemesample
 
 import android.os.Bundle
 import android.util.Log

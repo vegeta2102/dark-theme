@@ -1,4 +1,4 @@
-package jp.hoangvu.darkmodesample
+package jp.hoangvu.darkthemesample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

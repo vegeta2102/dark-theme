@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="jp.hoangvu.darkmodesample">
+    package="jp.hoangvu.darkthemesample">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="jp.hoangvu.darkthemesample.MainActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -20,8 +20,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".SettingActivity"
-            android:parentActivityName=".MainActivity" />
+            android:name="jp.hoangvu.darkthemesample.SettingActivity"
+            android:parentActivityName="jp.hoangvu.darkthemesample.MainActivity" />
     </application>
 
 </manifest>

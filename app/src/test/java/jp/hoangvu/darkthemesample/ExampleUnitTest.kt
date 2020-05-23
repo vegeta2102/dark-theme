@@ -1,4 +1,4 @@
-package jp.hoangvu.darkmodesample
+package jp.hoangvu.darkthemesample
 
 import org.junit.Test
 
